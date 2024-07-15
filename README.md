@@ -1,9 +1,6 @@
 # Hi there 👋
 
-##<!--
 **dineshdin99/dineshdin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Learnbay Intern/Undergoing training by Learnbay.
 - 
@@ -31,5 +28,5 @@ Here are some ideas to get you started:
 -           MR.
 -       
 - ⚡ Fun fact:
-- I love to sing songs in bathroom 😄
+- I am way more smart,behalf of my looks😄
 -->##
