@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**dineshdin99/dineshdin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**This is Kurma Dinesh an aspiring data analyst,seeking for an opportunity to prove my skills and improve my skills and daily productivity **
 
 - 🔭 I’m currently working as a Learnbay Intern/Undergoing training by Learnbay.
 - 
@@ -24,8 +24,6 @@
 - [kurma-dinesh-linkedin](https://www.linkedin.com/in/kurma-dinesh-ae12/)
 - 
 - 😄 Pronouns:
-- 
--           MR.
 -       
 - ⚡ Fun fact:
 - I am way more smart,behalf of my looks😄
