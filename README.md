@@ -13,6 +13,7 @@
 - 💬 Ask me about:
 - 
 - How you have done your projects?
+- what analysis have you done so far?
 - 
 - What are the challenges you have faced while doing the projects?
 - 
